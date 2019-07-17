@@ -2,7 +2,7 @@
 Problem Statement:
 After the completion of this project, the Washington D.C city bike sharing program can predict the usage of bikes in different locations and therefore to relocate bikes at low demand area to high demand areas in order to increase the utilization ratio of the bikes.
 
-What will client do or decide based on analysis
+What will client do or decide based on analysis:
 By forecasting bike rental demand of bike sharing program in Washington D.C based on historical usage patterns in relation with weather, time and other factors. People rent a bike from one location and return it to a different or same location on need basis through membership or on demand basis. The city will relocate bicycles based on predictions(i.e. increase or decrease the number of bikes in locations based on weather conditions and time of the day) to meet the demand and maximize the utilization ratio of the bikes, and therefore generate less pollute in the city.
 
 Data Sets:
